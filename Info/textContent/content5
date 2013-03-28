@@ -1,0 +1,17 @@
+
+我总结了一些有助于开发的工具在<_link>http://github.com/zhangxigithub/|github</_link>上。
+
+比较有用的有
+
+<_link>http://github.com/zhangxigithub/AutomaticCoder|Automatic Coder</_link>
+自动根据JSON内容生成对应的objective-c的类文件，支持数组和字典的嵌套。这个同时在mac app store提供
+
+<_link>http://github.com/zhangxigithub/BlockUI|BlockUI</_link>
+这个很实用，让系统控件支持用block作回调
+
+<_link>http://github.com/zhangxigithub/ZXMacro|ZXMacro</_link>
+常用宏定义
+
+<_link>http://github.com/zhangxigithub/ZXTools|ZXTools</_link>
+工具箱，包括自定义导航栏,加密解密 等等
+
